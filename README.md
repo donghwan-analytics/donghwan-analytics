@@ -1,5 +1,3 @@
-<img src="assets/profile.jpg" alt="노동환 프로필 사진" width="150" align="right" />
-
 # 노동환 | Dong-Hwan Noh
 
 **Data Analytics · Applied Statistics**
@@ -11,9 +9,7 @@
 - **관심 분야:** 비즈니스·고객 데이터 분석, 데이터 기반 제품·전략 의사결정
 - **분석 도구:** R · Python · SPSS · AMOS · Excel
 
-[Notion 포트폴리오](https://app.notion.com/p/3fd6458e68be81319bf8ec571cdbc33d)
-
-<br clear="all" />
+[Notion 포트폴리오](https://app.notion.com/p/Data-Analytics-Portfolio-3fd6458e68be81319bf8ec571cdbc33d?source=copy_link)
 
 ## 대표 프로젝트
 
